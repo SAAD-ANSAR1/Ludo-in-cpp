@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608936838 source:c:\users\m.tanveer\desktop\ludo code\main.cpp
+	<graphics.h>
+	<iostream>
+	<cstdio>
+
